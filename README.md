@@ -4,3 +4,6 @@
 
 <b>Deutsch: Beispiel Website für ein Café</b>
 <br>Benutze es gerne als Vorlage für deine Website! Ich hoffe ich kann dir damit weiterhelfen und ein wenig Inspiration geben.
+
+<b>PREVIEW / VORSCHAU:</b>
+<a href="lokales-cafe.netlify.app">lokales-cafe.netlify.app</a>
